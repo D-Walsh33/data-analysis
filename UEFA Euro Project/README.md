@@ -1,0 +1,3 @@
+# This is a project looking at European Football teams from 1960 - 2024
+## This project uses pandas, matplotlib, ...
+This is crazy:
